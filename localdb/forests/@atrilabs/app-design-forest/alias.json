@@ -1,0 +1,13 @@
+{
+  "BarChart": 1,
+  "Input": 1,
+  "AreaChart": 2,
+  "Flex": 25,
+  "Link": 4,
+  "Menu": 1,
+  "TextBox": 32,
+  "Radio": 1,
+  "Image": 7,
+  "Div": 1,
+  "Carousel": 1
+}
